@@ -14,5 +14,5 @@ This project is ideal for supermarkets, cafes, and small shops that want to auto
 - Easy to extend and customize
 
 ---
-
+-Datho = “A system that handles and transforms data.”
 ## 📦 Project Structure
